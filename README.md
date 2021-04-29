@@ -1,2 +1,3 @@
-# social-matrix-p1
-Social Matrix, Phase 1
+# social-matrix
+
+Social Matrix Project, made with JavaScript and D3.
